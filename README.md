@@ -13,13 +13,6 @@
 
 ---
 
-## Capturas de Pantalla
-
-![Captura de Pantalla 1](screenshot1.png)  
-*Pantalla principal de la calculadora.*
-
----
-
 ## Requisitos
 
 Para ejecutar esta aplicación, necesitas:
@@ -44,12 +37,12 @@ Usa los botones para ingresar números y operaciones.
 Presiona = para calcular el resultado.
 
 Usa C para limpiar la pantalla.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Funcionalidades Avanzadas
 Porcentaje: Presiona el botón % para calcular el porcentaje de un número.
 
 Raíz cuadrada: Presiona el botón √ para calcular la raíz cuadrada de un número.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto, sigue estos pasos:
 
@@ -62,10 +55,10 @@ Haz commit de tus cambios (git commit -m "Agregada nueva funcionalidad").
 Haz push a la rama (git push origin nueva-funcionalidad).
 
 Abre un Pull Request.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
